@@ -30,7 +30,7 @@
          "state":{
             "id":2,
             "stateTypeId":1,
-            "name":"approved",
+            "name":"pending",
             "description":"Aprobada"
          },
          "user":{
