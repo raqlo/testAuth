@@ -1,5 +1,5 @@
 {
-   "authorizers": [
+   "authorizationData": [
       {
          "id":1,
          "loanApplicationId":109,
