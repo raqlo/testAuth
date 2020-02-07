@@ -12,5 +12,11 @@
          "name": "Maestria",
          "description": "Grado de maestría"
       }
+   ],
+   "documentType": [
+      {
+         "name": "Cédula",
+         "description": "documento de identidad dominicana"
+      }
    ]
 }
