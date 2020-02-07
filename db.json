@@ -1,128 +1,16 @@
 {
-   "authorizationData": [
+   "academiclevel": [
       {
-         "id":1,
-         "loanApplicationId":109,
-         "stateRuleId":2,
-         "userId":51,
-         "stateId":2,
-         "justification":"asdasd",
-         "creationDate":"2020-01-22",
-         "stateRule":{
-            "id":2,
-            "actualStateId":11,
-            "futureStateId":5,
-            "name":"Prueba 2",
-            "percentRequired":70,
-            "actualState":{
-               "id":11,
-               "stateTypeId":1,
-               "name":"no-contact",
-               "description":"Solicitud enviada"
-            },
-            "futureState":{
-               "id":11,
-               "stateTypeId":1,
-               "name":"no-contact",
-               "description":"Solicitud enviada"
-            }
-         },
-         "state":{
-            "id":2,
-            "stateTypeId":1,
-            "name":"pending",
-            "description":"Aprobada"
-         },
-         "user":{
-            "id":51,
-            "personId":109,
-            "userTypeId":2,
-            "username":"johan.dev19@gmail.com",
-            "password":null,
-            "social_uid":"qjvIKHcIa7O7mSR1abonfD6B5Xi2",
-            "active":1,
-            "person":{
-               "id":109,
-               "personTypeId":1,
-               "documentTypeId":1,
-               "documentNumber":"22900243993",
-               "firstName":"johan",
-               "lastName":"guzman",
-               "birthdate":null,
-               "sex":null,
-               "maritalStatusId":null,
-               "phoneNumber":null,
-               "cellPhone":"8496323447",
-               "otherPhone":null,
-               "email":"johan.dev19@gmail.com",
-               "address":null,
-               "city":null,
-               "province":null,
-               "country":null
-            }
-         }
+         "name": "Bachiller",
+         "description": "Grado de Bachiller"
       },
       {
-         "id":2,
-         "loanApplicationId":109,
-         "stateRuleId":4,
-         "userId":55,
-         "stateId":2,
-         "justification":"Porque puedo",
-         "creationDate":"2020-01-22",
-         "stateRule":{
-            "id":4,
-            "actualStateId":11,
-            "futureStateId":5,
-            "name":"Prueba 1",
-            "percentRequired":80,
-            "actualState":{
-               "id":11,
-               "stateTypeId":1,
-               "name":"no-contact",
-               "description":"Solicitud enviada"
-            },
-            "futureState":{
-               "id":11,
-               "stateTypeId":1,
-               "name":"no-contact",
-               "description":"Solicitud enviada"
-            }
-         },
-         "state":{
-            "id":2,
-            "stateTypeId":1,
-            "name":"approved",
-            "description":"Aprobada"
-         },
-         "user":{
-            "id":55,
-            "personId":120,
-            "userTypeId":5,
-            "username":"wildinmota.iban@gmail.com",
-            "password":"$2a$10$g8I13JVuLXYVlpzQZBILEOr9tL7pYGvnDFMzuKN1mg65uCQw.UyuW",
-            "social_uid":null,
-            "active":1,
-            "person":{
-               "id":120,
-               "personTypeId":1,
-               "documentTypeId":1,
-               "documentNumber":"40210209378",
-               "firstName":"Wil",
-               "lastName":"Mota",
-               "birthdate":"0000-00-00",
-               "sex":"M",
-               "maritalStatusId":1,
-               "phoneNumber":null,
-               "cellPhone":"8298082841",
-               "otherPhone":null,
-               "email":"wildinmota.iban@gmail.com",
-               "address":null,
-               "city":null,
-               "province":null,
-               "country":null
-            }
-         }
+         "name": "Grado Universitario",
+         "description": "Grado de universidad"
+      },
+      {
+         "name": "Maestria",
+         "description": "Grado de maestría"
       }
    ]
 }
