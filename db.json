@@ -1,20 +1,24 @@
 {
    "academiclevel": [
       {
+         "id": 1,
          "name": "Bachiller",
          "description": "Grado de Bachiller"
       },
       {
+         "id": 2,
          "name": "Grado Universitario",
          "description": "Grado de universidad"
       },
       {
+         "id": 3,
          "name": "Maestria",
          "description": "Grado de maestría"
       }
    ],
    "documentType": [
       {
+         "id": 1,
          "name": "Cédula",
          "description": "documento de identidad dominicana"
       }
